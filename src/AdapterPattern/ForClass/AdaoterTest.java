@@ -1,8 +1,9 @@
-package AdapterPattern;
+package AdapterPattern.ForClass;
 
 /**
  * Created by Ray on 2017/3/3.
  * 适配器模式测试类
+ * 类适配器
  */
 public class AdaoterTest {
     public static void main(String[] args){

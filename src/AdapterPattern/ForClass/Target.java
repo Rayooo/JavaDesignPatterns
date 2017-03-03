@@ -1,4 +1,4 @@
-package AdapterPattern;
+package AdapterPattern.ForClass;
 
 /**
  * Created by Ray on 2017/3/3.
