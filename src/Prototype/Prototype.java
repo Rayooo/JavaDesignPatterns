@@ -2,6 +2,8 @@ package Prototype;
 
 /**
  * Created by Ray on 2017/3/2.
+ * 原型模式
+ * 客户测试类
  */
 public class Prototype {
     public static void main(String[] args){

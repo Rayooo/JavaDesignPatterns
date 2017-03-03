@@ -2,6 +2,7 @@ package Singleton;
 
 /**
  * Created by Ray on 2017/3/2.
+ * 单例模式
  */
 public class SingletonPattern {
 

@@ -2,6 +2,7 @@ package Prototype;
 
 /**
  * Created by Ray on 2017/3/2.
+ * 抽象原型类
  */
 public interface Resume {
 

@@ -2,6 +2,7 @@ package Prototype;
 
 /**
  * Created by Ray on 2017/3/2.
+ * 具体原型类
  */
 public class ConcreteResume implements Resume, Cloneable {
 
